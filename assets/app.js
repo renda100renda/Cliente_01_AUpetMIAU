@@ -232,7 +232,7 @@
 
         function startAutoPlay() {
           stopAutoPlay();
-          autoPlayTimer = setInterval(nextSlide, 5500); // 5.5s autoplay
+          autoPlayTimer = setInterval(nextSlide, 6500); // 5.5s autoplay
         }
 
         function stopAutoPlay() {
